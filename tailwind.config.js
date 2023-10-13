@@ -15,6 +15,9 @@ module.exports = {
         },
         secondary: {
           DEFAULT: '#B276FF'
+        },
+        faded: {
+          DEFAULT: '#7A7A7A'
         }
       }
     }

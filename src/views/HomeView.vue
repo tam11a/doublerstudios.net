@@ -21,4 +21,14 @@
       All While Sipping Juicy Inspiration!
     </p>
   </div>
+  <div class="py-7 my-[120px] grid grid-cols-2">
+    <div>
+      <h2 class="font-buda text-7xl">WHAT <span class="text-primary">WE DO</span></h2>
+      <p class="text-sm text-faded tracking-widest font-semibold max-w-sm mt-2 pl-2">
+        ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel risus commodo viverra
+        maecenas accumsan lacus vel facilisis volutpat est.
+      </p>
+    </div>
+    <div></div>
+  </div>
 </template>
