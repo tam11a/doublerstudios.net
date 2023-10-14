@@ -21,7 +21,7 @@
       All While Sipping Juicy Inspiration!
     </p>
   </div>
-  <div class="py-7 my-[120px] grid grid-cols-2">
+  <div class="py-7 my-[120px] grid sm:grid-cols-2">
     <div>
       <h2 class="font-buda text-7xl">WHAT <span class="text-primary">WE DO</span></h2>
       <p class="text-sm text-faded tracking-widest font-semibold max-w-sm mt-2 pl-2">
@@ -54,7 +54,7 @@
       </div>
     </div>
     <div class="h-full w-full flex flex-row items-center justify-center">
-      <img src="/tdk.gif" draggable="false" class="max-w-md -rotate-12" />
+      <img src="/tdk.gif" draggable="false" class="max-w-md -rotate-12 mix-blend-screen" />
     </div>
   </div>
 </template>
