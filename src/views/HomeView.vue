@@ -29,6 +29,32 @@
         maecenas accumsan lacus vel facilisis volutpat est.
       </p>
     </div>
-    <div></div>
+    <div class="flex flex-col items-center max-w-md row-span-2">
+      <div class="pl-24">
+        <h3 class="font-medium text-3xl text-faded">01</h3>
+        <p class="font-buda text-6xl mt-2">
+          VIDEO <br />
+          EDITING
+        </p>
+      </div>
+      <div class="text-right pr-24 mt-10">
+        <h3 class="font-medium text-3xl text-faded">02</h3>
+        <p class="font-buda text-6xl mt-2">
+          CONTENT
+          <br />
+          IDEATION
+        </p>
+      </div>
+      <div class="pl-20 mt-10">
+        <h3 class="font-medium text-3xl text-faded">03</h3>
+        <p class="font-buda text-6xl mt-2">
+          ENGAGING <br />
+          CONTENTS
+        </p>
+      </div>
+    </div>
+    <div class="h-full w-full flex flex-row items-center justify-center">
+      <img src="/tdk.gif" draggable="false" class="max-w-md -rotate-12" />
+    </div>
   </div>
 </template>
