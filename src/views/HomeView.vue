@@ -57,4 +57,43 @@
       <img src="/tdk.gif" draggable="false" class="max-w-md -rotate-12 mix-blend-screen" />
     </div>
   </div>
+  <div class="mb-12">
+    <h2 class="font-buda text-7xl text-center">HOW <span class="text-primary">WE WORK</span></h2>
+    <p class="text-sm text-faded tracking-widest font-semibold max-w-md mt-2 text-center mx-auto">
+      ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel risus commodo viverra
+      maecenas accumsan lacus vel facilisis volutpat est.
+    </p>
+    <div class="grid grid-cols-3 bg-[url('/map.svg')] bg-contain bg-no-repeat bg-bottom mb-8 mt-40">
+      <div class="col-span-3 flex flex-row gap-2 mb-12 -mt-24">
+        <img src="/arrow-blue.svg" draggable="false" class="max-w-[90px]" />
+        <div>
+          <h3 class="font-semibold text-5xl">Creativity</h3>
+          <p class="text-sm text-faded font-semibold tracking-widest mt-2 max-w-xs">
+            ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel risus
+          </p>
+        </div>
+      </div>
+      <div class="col-span-2">
+        <img src="/bulls-eye.svg" draggable="false" class="max-w-sm mx-auto" />
+      </div>
+      <div class="mt-12 -mb-16">
+        <div class="flex flex-row gap-2 items-end">
+          <h3 class="font-semibold text-5xl">Support</h3>
+          <img src="/arrow-violate.svg" draggable="false" class="max-w-[90px]" />
+        </div>
+        <p class="text-sm text-faded font-semibold tracking-widest mt-2 max-w-xs">
+          ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel risus
+        </p>
+      </div>
+      <div class="col-span-3 flex flex-row gap-2 mt-12 -mb-16">
+        <img src="/arrow-blue.svg" draggable="false" class="max-w-[90px] -rotate-90" />
+        <div>
+          <h3 class="font-semibold text-5xl">Strategy</h3>
+          <p class="text-sm text-faded font-semibold tracking-widest mt-2 max-w-xs">
+            ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel risus
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
 </template>
